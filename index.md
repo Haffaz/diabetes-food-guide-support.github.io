@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+## Diabetic Food Guide App Support
 
-You can use the [editor on GitHub](https://github.com/Haffaz/diabetes-food-guide-support.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+* This is a simple Food Guide app for children with Diabetes.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+* Children with Type 1 Diabetes need insulin injections to control blood sugar level. The dose of insulin is decided based on the amount of carbohydrate in each individual’s diet.
+* It is important for the children to understand the amount of carbohydrate in the common food items they consume. This information was published in 2015 and now I am happy to give it in this format as children have this as a quick reference.
+* In the modern fast moving world it would be handy to have these references on their fingertips through mobile devices instead of referring to books. The accurate details that will be obtained via a single touch on the app would make their life easier to achieve a better blood sugar control.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Haffaz/diabetes-food-guide-support.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+**Disclaimer: Use this App with the help of a Paediatric endocrinologist who is specialized to treat children with diabetes.**
